@@ -1,2 +1,2 @@
 # hello-word
-my first project on gethub
+my first project on github
